@@ -57,4 +57,15 @@ The picture above shows the t-test resutls for the total lots. We can see that t
 
 ### Metric To Be Tested
 
+-
+-
+-
+-
+
+### Null and Alternative Hypotheses
+
+-
+-
+
+### Statistical Test
 
