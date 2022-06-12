@@ -55,3 +55,6 @@ The picture above shows the t-test resutls for the total lots. We can see that t
 
 ## Study Design: MechaCar vs Competition
 
+### Metric To Be Tested
+
+
