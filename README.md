@@ -33,5 +33,23 @@ The following is a boxplot of the differences between the plots:
 
 ## T-Tests on Suspension Coils
 
+(Pic1)
 
+The picture above shows the t-test resutls for the total lots. We can see that the ***mean is 1498.78*** and the ***p-value is 0.06028*** the p-value is higher than the common significance which is 0.05, telling us that the null hypothesis will not be rejected.
+
+(Pic2)
+
+- Lot 1: The image above shows that the mean of lot 1 is 1500, and the ***p-value is 1*** which means that the null hypothesis will not be rejected.
+
+(Pic3)
+
+- Lot 2: The image above shows that the mean of lot 2 is 1500.2, and the ***p-value is 0.6072*** which means that the null hypothesis will not be rejected.
+
+(Pic4)
+
+- Lot 3: The image above shows that the mean of lot 3 is 1496.14 which is lower than the previous lots, and the ***p-value is 0.04168*** which means that the null hypothesis will be rejected.
+
+## Deliverable 4:
+
+## Study Design: MechaCar vs Competition
 
