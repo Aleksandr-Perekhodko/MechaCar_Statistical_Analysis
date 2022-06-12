@@ -2,7 +2,7 @@
 ## Deliverable 1:
 (PIcture Here)
 
-**Statistical Summary:**
+**Linear Regression to Predict MPG:**
 
 1. The variables/coefficients which provided a non-random amount of variance to the MPG values in the dataset would be the vehiocle_length and the ground_clearence since 
 they provide significant impact to MPG.
@@ -12,4 +12,10 @@ they provide significant impact to MPG.
 3. This linear model prediction on MPG for the MechaCar prototype is not effective since ***Multiple R-squared:  0.7149***, which is too low for a linear model to have a effictive prediction power for MPG.
 
 ## Deliverable 2:
+
+(Picture Here)
+
+## Summary Statistics on Suspension Coils
+
+
 
