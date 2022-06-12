@@ -13,9 +13,20 @@ they provide significant impact to MPG.
 
 ## Deliverable 2:
 
-(Picture Here)
-
 ## Summary Statistics on Suspension Coils
 
+(Pic1 Here)
+
+The *total_summary* shows that the variance PSI is at 62.29356 which is well within the required 100 PSI variance, which means that the total lot meets design specifications.
+
+(Pic2)
+
+- Lot 1: Variance PSI of 0.9795918 which means that lot 1 does meet the required design specification for manufacturing.
+- Lot 2: Variance PSI of 7.4693878 which means that lot 2 does meet the requred design specification for manufacturing.
+- Lot 3: Variance PSI of 170.2861224 which means that lot 3 does not fall within the 100 PSI requirement in turn meaning that lot 3 does not meet required design specification for manufacturing.
+
+The following is a boxplot of the differences between the plots:
+
+(Pic3 Here)
 
 
