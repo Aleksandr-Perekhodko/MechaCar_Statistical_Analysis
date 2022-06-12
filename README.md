@@ -57,15 +57,18 @@ The picture above shows the t-test resutls for the total lots. We can see that t
 
 ### Metric To Be Tested
 
--
--
--
--
+Here are some metrics that should be collected and tested:
+
+- Selling Price
+- Drivetrain
+- Engine
+- Fuel Effiecency in Miles per Gallon (MPG)
 
 ### Null and Alternative Hypotheses
 
--
--
+- **Null Hypothesis:** The price per performance is correct for its vehicle class.
+- **Alternatice Hypothesis:** The price per performance is *incorrect* for its vehicle class.
 
 ### Statistical Test
 
+A statistical test that could be used to determine the hypotheses is by using a **multiple linear regression** model. This model is used for predicting value of dependent variable based on two or more independent variables. The dependent variable being the price of the vehicle, while the performance parts such as the engine, drivetrain, and MPG being the independent variables.
