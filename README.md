@@ -2,7 +2,7 @@
 ## Deliverable 1:
 (PIcture Here)
 
-**Linear Regression to Predict MPG:**
+## Linear Regression to Predict MPG:
 
 1. The variables/coefficients which provided a non-random amount of variance to the MPG values in the dataset would be the vehiocle_length and the ground_clearence since 
 they provide significant impact to MPG.
